@@ -839,14 +839,14 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQxNTEzNDIsImlzcyI6IlZSIiwiZXhwIjoxNzQ0MTgwMTQyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.H-Xu_HtNevUBB7sJ3Yg22rWjLx4aQiFwoRIeUUcbeNw
+http://extraott.com/live/3162523972/3791698850/6590.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946",806 EPL2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQxNTEzNDIsImlzcyI6IlZSIiwiZXhwIjoxNzQ0MTgwMTQyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.H-Xu_HtNevUBB7sJ3Yg22rWjLx4aQiFwoRIeUUcbeNw
+http://extraott.com/live/3162523972/3791698850/6589.ts
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479309_ico.png?ts=1743781488",806 EPL3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -854,7 +854,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
+http://extraott.com/live/3162523972/3791698850/6588.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491670_ico.png?ts=1743913731",807 Grandstand FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
