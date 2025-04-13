@@ -877,6 +877,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=28bfcc9774644bda822c17a35660164c:620dba660d3e1f42acd6b077b4ca1dd8
 https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplusfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ0OTcyMjUsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NTgzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.WZaddxIXDLBO-fw6BGNTA2NIPsAYBkShbA2IVthsg0s
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",811 Sports Plus 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
