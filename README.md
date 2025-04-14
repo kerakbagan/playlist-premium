@@ -857,14 +857,14 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/grandstandfhd.png",807 Grandstand FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491670_ico.png?ts=1743913731",807 Grandstand FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66c94fd8908c43ccb5e7b3dd58a990d2:d489da5a8496d00a04757d432816ab71
 https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=granstandfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ2Njk1MTQsImlzcyI6IlZSIiwiZXhwIjoxNzQ0Njk4MzE0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.A-JMt2ARQmjQ-7oDBaBEgVRfWyoud3N0V8ihsm5UMKA
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png",808 Football FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876",808 Football FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
