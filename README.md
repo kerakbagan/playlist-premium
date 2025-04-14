@@ -1029,3 +1029,14 @@ http://xtvplayer.top:8080/sami4465/755488995/109984
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
 http://xtvplayer.top:8080/sami4465/755488995/109985
+
+======Movie=====
+
+#EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAOgPCQmTdGEmIx2VrKgxktuhioD9Zu2eJg&s",PLANKTON THE MOVIE
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://cloud.hownetwork.xyz/xxx/4a72633195691748de4ca2a1b82a3e52/25/480.m3u8
+
