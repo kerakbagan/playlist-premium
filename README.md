@@ -1040,3 +1040,12 @@ http://xtvplayer.top:8080/sami4465/755488995/109985
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 https://cloud.hownetwork.xyz/xxx/4a72633195691748de4ca2a1b82a3e52/25/480.m3u8
 
+======KELUARGA BAHA DON======
+#EXTINF:-1 tvg-id="KELUARGA BAHA DON" tvg-name="KELUARGA BAHA DON" group-title="KELUARGA BAHA DON"  tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JmOWE2MjktZDA5YS00MjFiLTkzNjAtOGFlOGIyYWFkMjM3XkEyXkFqcGc@._V1_.jpg",KELUARGA BAHA DON S1 E1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+https://d1k2us671qcoau.cloudfront.net/vodapi/vuclip_gcp.m3u8?vid=1165907749&layer=hlsc_whe2931_7.m3u8&area_id=1001&lang_id=3&ts=202504142228&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMWsydXM2NzFxY29hdS5jbG91ZGZyb250Lm5ldC92b2RhcGkvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDY1ODkwNH19fV19&Signature=VUW8mucNkD2rQcZLdprBcAgp6~RV8ppcwRWkUwy5rT0XMyN57YXe-wCHefPIi7fL~y~jU1xSwyWZ7WpYSb-p1Ot1irtZHHod3UW~JM-9jQKcweK432i3h0I3S9Ubiwa-6TRonWGg862eCL25semEWQyq8mQJFE~X1kPQjNqzHtUGWImiCYRCJ9GVDGvK4VKvuhypXaaCY7JtP5~n~kV4Hgq0ZEiMpDazT9fPYBZRslKNAkO7FsB4XmWkMkdN69enYxlin-rB6ingiEIlX7h~xBDjIpcvlKDhet4W~E~xQNx76MIFjjsii9uHbe~Jqx~mSe7cPDZnaoHVWPKvYdpjvQ__&Key-Pair-Id=APKAJ6Z4RF5IYK7Y3SQQ
+
