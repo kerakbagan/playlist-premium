@@ -1029,10 +1029,11 @@ http://xtvplayer.top:8080/sami4465/755488995/109984
 #KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
 http://xtvplayer.top:8080/sami4465/755488995/109985
 
-#EXTINF:-1 tvg-id="TAP SPORTS FHD" tvg-name="TAP SPORTS FHD" group-title="⚽ SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png", TAP SPORTS FHD
+#EXTINF:-1, tvg-id="" tvg-name="" group-title="Cignal Play 🇵🇭" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png",Tap Sports PH
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eabd2d95c89e42f2b0b0b40ce4179ea0&key=0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 ======Movie=====
 
