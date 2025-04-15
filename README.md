@@ -1028,7 +1028,6 @@ http://xtvplayer.top:8080/sami4465/755488995/109984
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
 http://xtvplayer.top:8080/sami4465/755488995/109985
-
 ======Movie=====
 
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
