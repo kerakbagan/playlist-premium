@@ -1029,6 +1029,12 @@ http://xtvplayer.top:8080/sami4465/755488995/109984
 #KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
 http://xtvplayer.top:8080/sami4465/755488995/109985
 
+#EXTINF:-1 tvg-id="US NETWORK FHD" tvg-name="US NETWORK FHD" group-title="⚽ SPORTS FHD" tvg-logo="https://logonoid.com/images/usa-network-logo.png",US NETWORK FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 ======Movie=====
 
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUAOgPCQmTdGEmIx2VrKgxktuhioD9Zu2eJg&s",PLANKTON THE MOVIE
