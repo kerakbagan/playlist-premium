@@ -157,8 +157,6 @@ http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33002
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ3MDE5MDgsImlzcyI6IlZSIiwiZXhwIjoxNzQ0NzU2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.bCphOpFOLzXb2XVXNQATS_QW8ElFsJ64sd0mKqrovRE
 
 =====Japan======
 #EXTINF:-1 group-logo="" group-title="JAPAN" tvg-id="" tvg-logo="https://welcon.kocca.kr/emp/cmm/getImage.do?atchFileId=FILE_774c7ef5-538f-4259-9bc2-970f911f4ef2", CGN TV
