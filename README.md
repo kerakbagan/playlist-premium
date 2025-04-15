@@ -862,28 +862,28 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66c94fd8908c43ccb5e7b3dd58a990d2:d489da5a8496d00a04757d432816ab71
-http://rw.tvking.xyz:8080/hlsr/ShNcU0IKFAIVVgcHW1RQBgAHUwhVBANUUg8JC1IDUg5SVAUKU1oHCQRHGhVKRRNXUQtvWVcTCA9QBwgfRxARU0NuXVYTWBQPBFEFBxsdQ0ZZC1USCQEeFRRfVBFfR1MFCAMEAARAGhpSHUJSS18AXm8CVUZaUlcVXlhFXwlJQFlfblBXXANYXBVfFAcbHUNbQxYSChF8U08NRRBxFwoDUlNQWlYRMVJWGSdeUxsdQ1BZEkJRR1QQDUYDAAVXR04UUl5BXEUQTxoNR3tuGx1DV0gSVV5AWF1ZRgwSXlYQWhQdE11BbhBTS0MXU1ZUVBMQCkQAEh8TX1YcaVNcCwsHVUVYW1xCQAwaBkcaFVReD1tECUJvQ1hWFV4UAwVWV1YABRNJ/erny7/kng243/8418/2e30d3945584fd7c1b0197fe6da3b899/8418_965.ts
+http://tvking.xyz:8080/live/erny7/kng243/8418.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876",808 Football FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=979e72a070ec437ba92c597c287acbad:7f4db6de524b2e51c87f61566ff77039
-http://wt.tvking.xyz:8080/hlsr/ShNcU0IKFAIVUA8AWwAHBghTAgFXAlYHBQVRAgZVVQYABgdQCVUBXVZHGhVKRRNXUQtvWVcTCA9QBwkfRxARU0NuXVYTWBQPBFEFBxsdQ0ZZC1USCQEeFRRfVBFfR1MHBQgABQBAGhpSHUJSS18AXm8CVUZaUlcVXlhFXwlJQFlfblBXXANYXBVfFAcbHUNbQxYSChF8U08NRRBxFwoDUlNQWlYRMVJWGSdeUxsdQ1BZEkJRR1QQDUYHBwZUR04UUl5BXEUQTxoNR3tuGx1DV0gSVV5AWF1ZRgwSXlYQWhQdE11BbhBTS0MXU1ZUVBMQCkQAEh8TX1YcaVNcCwsHVUVYW1xCQAwaBkcaFVReD1tECUJvQ1hWFV4UBwNVV1QPE0w=/erny7/kng243/8419/d5e5789ca1136fd702a5fb16412cb3c5/8419_280.ts
+http://tvking.xyz:8080/live/erny7/kng243/8419.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492782_ico.png?ts=1743925863",809 Badminton FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ2Njk1MTQsImlzcyI6IlZSIiwiZXhwIjoxNzQ0Njk4MzE0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.A-JMt2ARQmjQ-7oDBaBEgVRfWyoud3N0V8ihsm5UMKA
+http://tvking.xyz:8080/live/erny7/kng243/28383.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=28bfcc9774644bda822c17a35660164c:620dba660d3e1f42acd6b077b4ca1dd8
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplusfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ2Njk1MTQsImlzcyI6IlZSIiwiZXhwIjoxNzQ0Njk4MzE0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.A-JMt2ARQmjQ-7oDBaBEgVRfWyoud3N0V8ihsm5UMKA
+http://tvking.xyz:8080/live/erny7/kng243/28385.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",811 Sports Plus 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -897,28 +897,28 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffd1e696f9ab454c8d10d9c880c360e9:00b22ca27f39679d2add6e405f1804d0
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cricketfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDM4MDAzMzUsImlzcyI6IlZSIiwiZXhwIjoxNzQzODI5MTM1LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.ypUp8MZHVjECUU0CZW2V_zqWMVVz5S-r83mgX_Iq22o
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",813 Bein1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=323148d9bf4d481fbbc8067bc227960c:5f4c296e4c543b2c750ba48c2302cec4
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ2Njk1MTQsImlzcyI6IlZSIiwiZXhwIjoxNzQ0Njk4MzE0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.A-JMt2ARQmjQ-7oDBaBEgVRfWyoud3N0V8ihsm5UMKA
+http://tvking.xyz:8080/live/erny7/kng243/8414.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png",814 Bein2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b9f474f9bd54708809e3a37306d4832:25bb473ed8915a04ee5e755b40c92508
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ2Njk1MTQsImlzcyI6IlZSIiwiZXhwIjoxNzQ0Njk4MzE0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.A-JMt2ARQmjQ-7oDBaBEgVRfWyoud3N0V8ihsm5UMKA
+http://tvking.xyz:8080/live/erny7/kng243/20773.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein3fhd.png",815 Bein3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=124ee769c9914114863c46b9c452a56c:401d3f2fb9e6a5954683fa51d5479041
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bein3fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ2Njk1MTQsImlzcyI6IlZSIiwiZXhwIjoxNzQ0Njk4MzE0LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.A-JMt2ARQmjQ-7oDBaBEgVRfWyoud3N0V8ihsm5UMKA
+http://tvking.xyz:8080/live/erny7/kng243/8413.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein4fhd.png",816 Bein4 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
