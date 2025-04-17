@@ -876,7 +876,7 @@ http://tvking.xyz:8080/live/erny7/kng243/8551.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=28bfcc9774644bda822c17a35660164c:620dba660d3e1f42acd6b077b4ca1dd8
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplusfhd|authorization=Bearer token=ShNcU0IKFAIVUFIAXVMEVFYDVFUKAgsFAAMGVlEGVVdSBVEEAQMPDw5HGhVKRRNXUQtvWVcTCAVcBQgGSUcXRVRDa1tVQAwaAFYCBAkTTRBED11VEQsCG0ZGWVdHX0ABBwUBBgdAGhpSHUJSS18AXm8CVUZaUlcVXlhFXwlJQFlfblBXXANYXBVfFAcbHUNbQxYSChF8U08NRRBxFwoDUlNQWlYRMVJWGSdeUxsdQ1BZEkJRR1QQDUYHBgBdR04UUl5BXEUQTxoNR3tuGx1DV0gSVV5AWF1ZRgwSXlYQWhQdE11BbhBTS0MXU1ZUVBMQCkQAEh8TX1YcaVNcCwsHVUVYW1xCQAwaBkcaFVReD1tECUJvQ1hWFV4UAQFUXFoGAxNJ
+http://tvking.xyz:8080/live/erny7/kng243/28385.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",811 Sports Plus 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
