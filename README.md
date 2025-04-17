@@ -932,7 +932,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8ba099617e54815b4fa03bf66d5bbbb:05ed9f1bc2c6932e9d81eec68446284e
-http://tvking.xyz:8080/live/erny7/kng243/28385.m3u8
+http://tvking.xyz:8080/live/erny7/kng243/8650.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotv2fhd.png",817 Spotv2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
