@@ -66,11 +66,11 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=alhijrah
 
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroPrima" ch-number="105" tvg-logo="https://get.perfecttv.net/logo/primafhd.png",Astro Prima
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
-http://tvking.xyz:8080/live/erny7/kng243/8444.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows N$T 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124
+ http://tvking.xyz:8080/live/erny7/kng243/8446.m3u8
 
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="AstroRia" ch-number="104" tvg-logo="https://get.perfecttv.net/logo/riafhd.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
