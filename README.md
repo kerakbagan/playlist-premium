@@ -807,6 +807,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
 =====SPORTS FHD=====
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796",801 Arena FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -886,6 +887,7 @@ http://xtv.ooo:8080/live/123456/654321/352088.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491670_ico.png?ts=1743913731",807 Grandstand FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
