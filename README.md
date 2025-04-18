@@ -861,7 +861,7 @@ http://tvking.xyz:8080/live/erny7/kng243/8417.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
-http://50.7.234.10:8278/Assp2/playlist.m3u8
+http://50.7.234.10:8278/Assp2/075125_1744968364.ts
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479309_ico.png?ts=1743781488 ",806 EPL3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
