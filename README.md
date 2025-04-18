@@ -847,7 +847,7 @@ http://tvking.xyz:8080/live/erny7/kng243/8416.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
-http://50.7.234.10:8278/Assp1/playlist.m3u8?tid=mc400fe4ba3479&ct=11609365013&tsum=de807d1a2b488d6d174989bc2846844b
+http://50.7.234.10:8278/Assp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946",806 EPL2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
