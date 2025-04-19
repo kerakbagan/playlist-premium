@@ -1053,6 +1053,26 @@ http://tvking.xyz:8080/live/erny7/kng243/8413.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=N2I0MzM1NjMtYjAyNC0zNTgxLWEzOTAtZmI5MGY3ODZkNDM5
 https://web.hypp.tv/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
+#EXTINF:-1 tvg-id="SONY TEN SPORTS 1" tvg-name="SONY TEN SPORTS 1" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646", SONY TEN SPORTS 1 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+http://xtvplayer.top:8080/sami4465/755488995/167570
+
+#EXTINF:-1 tvg-id="SONY TEN SPORTS 2" tvg-name="SONY TEN SPORTS 2" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500", SONY TEN SPORTS 2 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+http://xtvplayer.top:8080/sami4465/755488995/167571
+
+#EXTINF:-1 tvg-id="SONY TEN SPORTS 3" tvg-name="SONY TEN SPORTS 3" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500", SONY TEN SPORTS 3 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+http://xtvplayer.top:8080/sami4465/755488995/167572
 ======Movie=====
 
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
