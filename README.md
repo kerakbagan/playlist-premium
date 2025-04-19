@@ -1022,6 +1022,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
+#EXTINF:-1 tvg-id="PEACOCOK|WWE FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://deadline.com/wp-content/uploads/2021/03/WWE-Peacock.jpg", PEACOCK|WWE FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/58348.ts
+
 ======BEIN SPORTS FHD======
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ BEIN SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",813 Bein1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
