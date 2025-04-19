@@ -709,7 +709,7 @@ https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs
 #EXTINF:-1 player-buffer="6" group-logo="" group-title="KIDS" tvg-id="555.unifi" ch-number="555" tvg-logo="https://get.perfecttv.net/logo/cartoonito.png" group-logo="", 206 Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-https://pop5clustera00f00619231b2c6f32bd.hypp.tv/wh7f454c46tw828287703_932186332/PLTV/88888888/224/3221225772/video-Video1_6-588870.m4v?hw_dash=1&servicetype=1&service_devid=60&mag_hms=60,58&rrsip=webr24.hypp.tv:443&zoneoffset=0&limitflux=-1&limitdur=-1&tenantId=6003
+http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/56367.ts
 
 #EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="KIDS" tvg-logo="https://get.perfecttv.net/logo/moonbug.png" ,207 Moonbug
 #KODIPROP:inputstreamaddon=inputstream.adaptive
