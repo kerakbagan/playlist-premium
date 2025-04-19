@@ -1072,13 +1072,6 @@ http://xtvplayer.top:8080/sami4465/755488995/167571
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 http://xtvplayer.top:8080/sami4465/755488995/167572
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="SPORTS FHD" tvg-id="All I Max Wrestling" tvg-logo="https://1max.top/wp-content/uploads/2025/01/1max.top_.png " , All I Max 
-Wresttling
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows N$T 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124
-https://33mqrpujaezo.ubuntu-devs.top/AccessLog2/108085_LQ/apache.m3u8
-
 ======Movie=====
 
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
