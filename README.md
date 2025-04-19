@@ -1067,7 +1067,7 @@ http://xtvplayer.top:8080/sami4465/755488995/167570
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 http://xtvplayer.top:8080/sami4465/755488995/167571
 
-#EXTINF:-1 tvg-id="SONY TEN SPORTS 3" tvg-name="SONY TEN SPORTS 3" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest?cb=20221025084500", SONY TEN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="SONY TEN SPORTS 3" tvg-name="SONY TEN SPORTS 3" group-title="⚽ SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29WO9aVgeG6HlHNi0RapUpx9u0UkMjA7u4w&s", SONY TEN SPORTS 3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
