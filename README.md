@@ -72,11 +72,11 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riachd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDUxMDc2NjQsImlzcyI6IlZSIiwiZXhwIjoxNzQ1MTg4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.x4KTSd3itICsRpnb3wO1Fhc-zeYbZwysRAq_8ZFYoQQ
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima FHD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows N$T 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124
- http://tvking.xyz:8080/live/erny7/kng243/8447.m3u8
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://tvking.xyz:8080/live/erny7/kng243/8447.m3u8
 
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
