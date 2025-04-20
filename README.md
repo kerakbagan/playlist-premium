@@ -1097,6 +1097,13 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/112512.ts
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://cool365.xyz:900/live/4160189881/DB4ACD54/112515.ts
 
+#EXTINF:-1 tvg-id="AD SPORTS 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Ad_sport_3.png", AD SPORTS 3 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+http://cool365.xyz:900/live/4160189881/DB4ACD54/112511.ts
 ======BEIN SPORTS FHD======
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ BEIN SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",813 Bein1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
