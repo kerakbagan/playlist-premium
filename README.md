@@ -831,9 +831,7 @@ http://tvking.xyz:8080/live/erny7/kng243/8648.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-token=GEFeAEAMEQ5EAAFcUwEEUgdQVQRTVgcCAAIJCwVSUlVTBw5SBlFWBl4RFUcSTBRRUgg6WwEVC1gGAggKWBpAFhAGRD5aABEORAoOVlYARBgREQxfABULUAAEBQNXBFRWUE8UEVoAEQ5EAgtcVApEGBEAHUYARV8AW29UVxdfAQZBWVgUXwgfFgldZgEEVQdaV0dfEFUVHUNeQ0AQW1gXDw9PFANaEEFVElYbX0MJXgECR0kQBlhED0NCSRBbFDcwQU8UBEsQVloVWlYLQwJEQEBHSRAMRG4TUkNEQARXDwYRQQxDA0YfFgtSQToCVwhaVgYRWwpZQkMNEgIQTRQPDA0KQg5BO0NdAhEDR1MLXwULRxg=
-GET /live/RY481/3619/912889.ts?
-token=GEFeAEAMEQ5EAAFcUwEEUgdQvQRTVgcCAAIJ wVSUIVTBw5SBIFWBI4RFUCSTBRRUgg6WWEVC1gGAg KWBpAFhAGRD5aABEORAoOVIYARBgREQxfABULUAAE QNXBFRWUE8UEVoAEQ5EAgtcVApEGBEAHUYARV8AW 9UVxdfAQZBWVgUXwgfFgldZgEEVQdaVOdfEFUVHUNe 0AQW1gXDw9PFANaEEFVEIYbXOMJXgECROkQBlhEDON CSRBbFDcwQU8UBEsQVloVWIYLQWJEQEBHSRAMRG41 UkNEQARXDwYRQQxDAOYÍFgtSQTo CVwhaVgYRWwpz QkMNEglQTRQPDAOKQg5BOONdAhEDR1 MLXWULRXg= HTTP/1.1
+http://22.ktpremium.online:2095/live/RY481/3619/912889.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013 ",803 Arena Bola B FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -847,8 +845,9 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-
+http://44.ktpremium.online:2095/live/RY481/3619/912890.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",804 Arena Bola 2 B FHD
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
