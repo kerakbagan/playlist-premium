@@ -1028,7 +1028,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/58348.ts
+http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/55025.ts
 
 ======BEIN SPORTS FHD======
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ BEIN SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",813 Bein1 FHD
