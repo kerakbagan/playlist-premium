@@ -1021,7 +1021,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?i
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
 ======BEIN SPORTS FHD======
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ BEIN SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png",813 Bein1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
