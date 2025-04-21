@@ -821,9 +821,8 @@ http://tvking.xyz:8080/live/erny7/kng243/7156.m3u8
 #KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
 http://tvking.xyz:8080/live/erny7/kng243/8648.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",803 Arena Bola FHD
-#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer 
 http://tvking.xyz:8080/live/erny7/kng243/19068.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",803 Arena Bola B FHD
@@ -833,9 +832,8 @@ http://tvking.xyz:8080/live/erny7/kng243/19068.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
 https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDUyMjA0MzUsImlzcyI6IlZSIiwiZXhwIjoxNzQ1Mjc0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.QPXViZpydT73Q7SBdOX7Dbv1V0Kg5SIl2-jpJqYC9GM
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",804 Arena Bola 2 FHD
-#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer 
 http://44.ktpremium.online:2095/live/RY481/3619/912890.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",804 Arena Bola 2 B FHD
@@ -847,7 +845,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204",805 EPL FHD
-#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer 
 http://44.ktpremium.online:2095/live/RY481/3619/912890.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204",805 EPL B FHD
@@ -864,9 +862,8 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
 https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDUyMjA0MjYsImlzcyI6IlZSIiwiZXhwIjoxNzQ1Mjc0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.eiYIVyJzv_Es7LsyqPKtey_rGg1ynNZav_DyQkCLKaE
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946",806 EPL2 FHD
-#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer 
 http://33.ktpremium.online:2095/live/RY481/3619/26313.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479309_ico.png?ts=1743781488 ",806 EPL3 FHD
