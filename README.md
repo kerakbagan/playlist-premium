@@ -836,7 +836,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",804 Arena Bola 2 FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-http://44.ktpremium.online:2095/live/RY481/3619/912890.ts
+http://44.ktpremium.online:2095/live/RY481/3619/912890.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",804 Arena Bola 2 B FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
