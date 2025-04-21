@@ -74,7 +74,7 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-http://33.ktpremium.online:2095/live/RY481/3619/25862.m3u8
+http://wr.tvking.xyz:8080/live/erny7/kng243/8447.m3u8
 
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
