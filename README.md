@@ -831,7 +831,6 @@ http://tvking.xyz:8080/live/erny7/kng243/8648.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-token=GEFeAEAMEQ5EVQ1VVwFSAgdcBAdQUlRVUVYAAwcEVlZTVwUFV1VWBFYRFUcSTBRRUgg6WwEVC1gGAggKWBpAFhAGRD5aABEORAsKU1IKRBgREQxfABULUAAEBQNXBVdWUk8UEVoAEQ5EAgtcVApEGBEAHUYARV8AW29UVxdfAQZBWVgUXwgfFgldZgEEVQdaV0dfEFUVHUNeQ0AQW1gXDw9PFANaEEFVElYbX0MJXwYAR0kQBlhED0NCSRBbFDcwQU8UBEsQVloVWlYLQwJEQEBHSRAMRG4TUkNEQARXDwYRQQxDA0YfFgtSQToCVwhaVgYRWwpZQkMNEgIQTRQPDA0KQg5BO0NdAhEDR1MLXwULRxg=
 http://22.ktpremium.online:2095/live/RY481/3619/912889.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013 ",803 Arena Bola B FHD
@@ -839,7 +838,7 @@ http://22.ktpremium.online:2095/live/RY481/3619/912889.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDUxMDc2NjUsImlzcyI6IlZSIiwiZXhwIjoxNzQ1MTg4MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.HuuqWaBKSATPCNA4ICuPMxyBWkOL3RY-CUUyhKfgoXo
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",804 Arena Bola 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
