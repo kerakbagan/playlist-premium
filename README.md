@@ -821,9 +821,9 @@ http://tvking.xyz:8080/live/erny7/kng243/7156.m3u8
 #KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
 http://tvking.xyz:8080/live/erny7/kng243/8648.m3u8
 
-#EXTINF:-1 tvg-id="Astro Arena Bola FHD" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",Astro Arena Bola
+#EXTINF:-1 tvg-id="Arena Bola FHD" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",803 Arena Bola
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/RY481/3619/912889.ts
+http://22.ktpremium.online:2095/live/RY481/3619/912889.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",803 Arena Bola B FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
