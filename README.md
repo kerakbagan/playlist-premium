@@ -70,7 +70,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-http://tvking.xyz:8080/live/erny7/kng243/8445.m3u8
+http://ws.tvking.xyz:8080/hlsr/ShNcU0IKFAIVV1IDDFBSAlMEU1MFBQoBBQ4CBwNUV1MDVVEHVAMOAAJHGhVKRRNXUQtvWVcTCA9QAgUfRxARU0NuXVYTWBQPBFEFBxsdQ0ZZC1USCQEeFRRfVBFfR1ACBwcNChNOFF1PEVNFV1ANbVQDRllQVBANCkNcX0lHDVhuVVFfUAxSGg1HBhUVEwhBQEQKEn5QSl4XFnJBCgQGVFBfUBJiBlgWdQ1SFRUTA1tEFFFEVhMIFVwPBxFJRwFZRF9AQEhADBp6PBQbG1QZRlUIQ1lcXxANRlsDRl1HThRYQmtAVBFCSlIEW1JLE1sQAEQcEl5QSmgHWV5dAAYWX15fRxALQAcaG0dbWFdYFV1COUBZVxMIFVUFCQZdVlAUTA==/erny7/kng243/8445/2c37d680fb84586966f94238ce0e1bea/8445_3136.ts
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
