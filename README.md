@@ -1,4 +1,4 @@
-c# playlist-premium
+śc# playlist-premium
 
 =======MALAYSIA======
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
@@ -1142,6 +1142,26 @@ http://xtvplayer.top:8080/sami4465/755488995/167571
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 http://xtvplayer.top:8080/sami4465/755488995/167572
 
+#======Channel Bola======
+#EXTINF:-1 tvg-id="AstroArenaBola" group-title="Bola Channels ⚽️" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",Astro Arena Bola
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/RY481/3619/912889.ts
+
+#EXTINF:-1 tvg-id="AstroArenaBola2" group-title="Bola Channels ⚽️" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",Astro Arena Bola 2
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/RY481/3619/912890.ts
+
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="810" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491670_ico.png?ts=1743913731" group-title="Bola Channels ⚽️",Astro Grandstand
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/RY481/3619/26314.ts
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204" group-title="Bola Channels ⚽️",Astro Premier League
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/RY481/3619/26312.ts
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946" group-title="Bola Channels ⚽️",Astro Premier League 2 
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/RY481/3619/26313.ts
 ======Movie=====
 
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
