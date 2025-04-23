@@ -66,13 +66,13 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=alhijrah
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,119 Ria FHD
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" ,119 Ria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-http://ws.tvking.xyz:8080/hlsr/ShNcU0IKFAIVV1IDDFBSAlMEU1MFBQoBBQ4CBwNUV1MDVVEHVAMOAAJHGhVKRRNXUQtvWVcTCA9QAgUfRxARU0NuXVYTWBQPBFEFBxsdQ0ZZC1USCQEeFRRfVBFfR1ACBwcNChNOFF1PEVNFV1ANbVQDRllQVBANCkNcX0lHDVhuVVFfUAxSGg1HBhUVEwhBQEQKEn5QSl4XFnJBCgQGVFBfUBJiBlgWdQ1SFRUTA1tEFFFEVhMIFVwPBxFJRwFZRF9AQEhADBp6PBQbG1QZRlUIQ1lcXxANRlsDRl1HThRYQmtAVBFCSlIEW1JLE1sQAEQcEl5QSmgHWV5dAAYWX15fRxALQAcaG0dbWFdYFV1COUBZVxMIFVUFCQZdVlAUTA==/erny7/kng243/8445/2c37d680fb84586966f94238ce0e1bea/8445_3136.ts
+http://tvking.xyz:8080/live/erny7/kng243/8445.m3u8
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima FHD
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows N$T 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124
