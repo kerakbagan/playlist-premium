@@ -853,7 +853,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204",805 EPL FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer 
-http://tvking.xyz:8080/live/erny7/kng243/8416.m3u8
+https://l01.dp.sooka.my/601/linear/dash/601-video=4320400-1047250379411.dash
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204",805 EPL B FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
