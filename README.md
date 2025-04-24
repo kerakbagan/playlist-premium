@@ -72,6 +72,10 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows N$T 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124
 http://tvking.xyz:8080/live/erny7/kng243/8446.m3u8
 
+#EXTINF:-1 tvg-id="119 Ria" tvg-logo="https://get.perfecttv.net/logo/ria.png" group-title="MALAYSIA",Astro 119 Ria
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+http://ktpremium.shop/live/RY481/3619/25855.ts
+
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
