@@ -1165,8 +1165,7 @@ https://ktpremium.shop/live/RY481/3619/26313.ts
 
 #EXTINF:-1 tvg-id="AstroFootBall" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876" group-title="Bola Channels ⚽️",Astro FootBall
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-7138121457:AAFo3zUpAjmedpc9aPDBt2doIAcqjFBxrHw
-
+https://ktpremium.shop/live/RY481/3619/694542.ts
 ======Movie=====
 
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
