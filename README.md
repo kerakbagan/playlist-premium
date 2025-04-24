@@ -2,6 +2,7 @@
 
 
 =======MALAYSIA======
+
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -72,7 +73,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows N$T 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124
 http://tvking.xyz:8080/live/erny7/kng243/8446.m3u8
-
 
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
