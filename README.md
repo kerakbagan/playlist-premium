@@ -1163,9 +1163,13 @@ https://ktpremium.shop/live/RY481/3619/26312.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/26313.ts
 
+#EXTINF:-1 tvg-id="AstroFootBall" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876" group-title="Bola Channels ⚽️",Astro FootBall
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+http://22.ktpremium.online:2095/live/RY481/3619/694542.ts
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946" group-title="Bola Channels ⚽️",Astro Premier League 2 
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://22.ktpremium.online:2095/live/RY481/3619/694542.ts
+
 ======Movie=====
 
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
