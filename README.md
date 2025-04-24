@@ -75,7 +75,7 @@ http://tvking.xyz:8080/live/erny7/kng243/8446.m3u8
 
 #EXTINF:-1 tvg-id="119 Ria" tvg-logo="https://get.perfecttv.net/logo/ria.png" group-title="MALAYSIA",Astro 119 Ria
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer 
-http://11.ktpremium.shop/live/RY481/3619/25855.ts
+http://ktpremium.shop/live/RY481/3619/25855.ts
 
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
