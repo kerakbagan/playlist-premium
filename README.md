@@ -829,11 +829,11 @@ https://ktpremium.shop/live/RY481/3619/912889.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/912890.ts
 
-#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="810" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491670_ico.png?ts=1743913731" group-title="Bola Channels ⚽️",Astro Grandstand
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="810" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491670_ico.png?ts=1743913731" group-title="⚽ SPORTS FHD",Astro Grandstand
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/26314.ts
 
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204" group-title="Bola Channels ⚽️",Astro Premier League
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204" group-title="⚽ SPORTS FHD",Astro Premier League
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/26312.ts
 
