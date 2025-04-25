@@ -84,7 +84,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25862.ts|user-agent=IPTVPROP
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=awani
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,121 Citra
-https://otttv.shop/live/FAQRUKHAIRI/01155094696/25852.ts|user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/913177.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MALAYSIA" tvg-id="113.astro" tvg-logo="https://get.perfecttv.net/logo/aura.png" ,122 Aura
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
