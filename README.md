@@ -821,12 +821,11 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/913179.ts|user-agent=IPTVPRO
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
 
-#======Channel Bola======
-#EXTINF:-1 tvg-id="AstroArenaBola" group-title="Bola Channels ⚽️" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",Astro Arena Bola
+#EXTINF:-1 tvg-id="AstroArenaBola" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",Astro Arena Bola
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/912889.ts
 
-#EXTINF:-1 tvg-id="AstroArenaBola2" group-title="Bola Channels ⚽️" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",Astro Arena Bola 2
+#EXTINF:-1 tvg-id="AstroArenaBola2" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",Astro Arena Bola 2
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/912890.ts
 
@@ -838,11 +837,11 @@ https://ktpremium.shop/live/RY481/3619/26314.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/26312.ts
 
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946" group-title="Bola Channels ⚽️",Astro Premier League 2 
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946" group-title="⚽ SPORTS FHD",Astro Premier League 2 
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/26313.ts
 
-#EXTINF:-1 tvg-id="AstroFootBall" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876" group-title="Bola Channels ⚽️",Astro FootBall
+#EXTINF:-1 tvg-id="AstroFootBall" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876" group-title="⚽ SPORTS FHD",Astro FootBall
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/694542.ts
 ======Movie=====
