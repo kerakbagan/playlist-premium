@@ -843,6 +843,9 @@ https://ktpremium.shop/live/RY481/3619/26313.ts
 https://ktpremium.shop/live/RY481/3619/694542.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yLiGFCAF1+UGfIcXd36qxA","kid":"gTUrxH7BF3syHuZawb5/EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 
 #EXTINF:-1 tvg-id="SSC 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://i.pinimg.com/736x/77/6f/9f/776f9f887c933c83f5abe5cf595c2fde.jpg", SSC 1 FHD
