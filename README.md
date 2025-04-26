@@ -931,6 +931,7 @@ http://xtvplayer.top:8080/sami4465/755488995/167571
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 http://xtvplayer.top:8080/sami4465/755488995/167572
 
+
 #EXTINF:-1 tvg-id="PEACOCOM|WWE FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE NETWORK FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
