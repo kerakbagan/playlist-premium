@@ -937,7 +937,7 @@ http://xtvplayer.top:8080/sami4465/755488995/167572
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/58348.ts
+http://xtvplayer.top:8080/sami4465/755488995/383063
 
 #EXTINF:-1 tvg-id="WWE NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQDMycJCPt4e-fUkJwWX_Ny-5JuexSH8bkA&s", PEACOCK|WWE FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -945,7 +945,8 @@ http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/58348.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://xtvplayer.top:8080/sami4465/755488995/383063
+http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/58348.ts
+
 
 ======Movie=====
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
