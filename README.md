@@ -802,7 +802,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
+
 =====SPORTS FHD=====
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796",801 Arena FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/26308.ts|user-agent=IPTVPROPlayer
 
@@ -892,6 +894,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400551958.ts
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://cool365.xyz:900/live/4160189881/DB4ACD54/112512.ts
 
+
 #EXTINF:-1 tvg-id="AD SPORTS 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://w7.pngwing.com/pngs/520/846/png-transparent-abu-dhabi-sports-logo-abu-dhabi-tv-television-channel-marathon-event-television-text-logo-thumbnail.png", AD SPORTS 2 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -899,6 +902,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/112512.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://cool365.xyz:900/live/4160189881/DB4ACD54/112515.ts
+
 
 #EXTINF:-1 tvg-id="AD SPORTS 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Ad_sport_3.png", AD SPORTS 3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
