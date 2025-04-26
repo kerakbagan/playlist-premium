@@ -802,9 +802,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
-
 =====SPORTS FHD=====
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796",801 Arena FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/26308.ts|user-agent=IPTVPROPlayer
 
@@ -930,24 +928,6 @@ http://xtvplayer.top:8080/sami4465/755488995/167571
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 http://xtvplayer.top:8080/sami4465/755488995/167572
-
-
-#EXTINF:-1 tvg-id="PEACOCOM|WWE FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE NETWORK FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://xtvplayer.top:8080/sami4465/755488995/383063
-
-#EXTINF:-1 tvg-id="WWE NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQDMycJCPt4e-fUkJwWX_Ny-5JuexSH8bkA&s", PEACOCK|WWE FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://cool365.xyz:900/live/4160189881/DB4ACD54/9105.ts
-
 ======Movie=====
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
