@@ -834,7 +834,7 @@ https://ktpremium.shop/live/RY481/3619/26314.ts
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204" group-title="⚽ SPORTS FHD",Astro Premier League
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/RY481/3619/26312.ts
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/694537.ts
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946" group-title="⚽ SPORTS FHD",Astro Premier League 2 
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
