@@ -844,6 +844,9 @@ https://ktpremium.shop/live/RY481/3619/26313.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY481/3619/694542.ts
 
+#EXTINF:-1 tvg-id="ASTRO BADMINTON" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/badmintonfhd.png", ASTRO BADMINTON FHD
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010678.ts|user-agent=IPTVPROPlayer
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010680.ts|user-agent=IPTVPROPlayer
 
