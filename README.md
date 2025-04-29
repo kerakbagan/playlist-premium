@@ -947,7 +947,6 @@ http://xtvplayer.top:8080/sami4465/755488995/167572
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://cool365.xyz:900/live/4160189881/DB4ACD54/9105.ts
 
-
 #EXTINF:-1 tvg-id="WWE NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE NETWORK FHD
 http://xtvplayer.top:8080/sami4465/755488995/388817
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
@@ -956,9 +955,8 @@ http://xtvplayer.top:8080/sami4465/755488995/388817
 http://cool365.xyz:900/live/4160189881/DB4ACD54/33569.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 
-
 #EXTINF:-1 tvg-id="UFC FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://images.seeklogo.com/logo-png/27/2/ufc-logo-png_seeklogo-272942.png", UFC FHD
-http://cool365.xyz:900/live/4160189881/DB4ACD54/181532.ts
+https://cool365.xyz:900/live/4160189881/DB4ACD54/181532.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 
 ======Movie=====
