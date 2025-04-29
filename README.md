@@ -968,6 +968,10 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/912557.ts
 #EXTINF:-1 tvg-id="BEIN SPORTS 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein3fhd.png", BEIN SPORTS 3 FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/26322.ts
+
+#EXTINF:-1 tvg-id="SPOTV FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotvfhd.png", SPOTV FHD
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/26318.ts
 ======Movie=====
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
