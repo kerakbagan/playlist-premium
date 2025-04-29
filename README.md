@@ -952,6 +952,10 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/9105.ts
 http://xtvplayer.top:8080/sami4465/755488995/388817
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 
+#EXTINF:-1 tvg-id="DAZN LA LIGA FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s", DAZN LA LIGA FHD
+http://cool365.xyz:900/live/4160189881/DB4ACD54/33569.ts
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+
 ======Movie=====
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
