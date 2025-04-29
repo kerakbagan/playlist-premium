@@ -802,7 +802,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
+
 =====SPORTS FHD=====
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796",801 Arena FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/26308.ts|user-agent=IPTVPROPlayer
@@ -935,7 +937,6 @@ http://xtvplayer.top:8080/sami4465/755488995/167571
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 http://xtvplayer.top:8080/sami4465/755488995/167572
-
 
 #EXTINF:-1 tvg-id="PEACOCOK|WWE FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQDMycJCPt4e-fUkJwWX_Ny-5JuexSH8bkA&s", PEACOCK|WWE FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
