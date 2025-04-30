@@ -976,6 +976,10 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/26318.ts
 #EXTINF:-1 tvg-id="SPOTV 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotv2fhd.png", SPOTV 2 FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/73957.ts
+
+#EXTINF:-1 tvg-id="NOW SPORTS EPL FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.nowtv.now.com/media/s-logo/621_e.png", NOW SPORTS EPL FHD
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/958142.ts|user-agent=IPTVPROPlayer
+
 ======Movie=====
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
