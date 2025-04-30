@@ -980,14 +980,15 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/73957.ts
 #EXTINF:-1 tvg-id="NOW SPORTS EPL FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.nowtv.now.com/media/s-logo/621_e.png", NOW SPORTS EPL FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/958142.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="TRUE PREMIER 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/True_Premier_Football_HD1.png/revision/latest/scale-to-width-down/985?cb=20240416003052&path-prefix=vi", TRUE SPORTS 1 FHD
+#EXTINF:-1 tvg-id="TRUE PREMIER 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/True_Premier_Football_HD1.png/revision/latest/scale-to-width-down/985?cb=20240416003052&path-prefix=vi", TRUE PREMIER 1 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/952229.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="TRUE PREMIER 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi", TRUE SPORTS 2 FHD
+#EXTINF:-1 tvg-id="TRUE PREMIER 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi", TRUE PREMIER 2 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/952230.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="TRUE SPORTS 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.slazzer.com/downloads/6744b225-25c5-11f0-816a-1754fb72e2f3/1000562132_prev_ui.png", TRUE SPORTS 1 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/952232.ts|user-agent=IPTVPROPlayer
+
 ======Movie=====
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
