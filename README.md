@@ -955,7 +955,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/33569.ts
 
 #EXTINF:-1 tvg-id="UFC FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://images.seeklogo.com/logo-png/27/2/ufc-logo-png_seeklogo-272942.png", UFC FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-http://cool365.xyz:900/live/4160189881/DB4ACD54/181532.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/83250.ts
 
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png", BEIN SPORTS 1 FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
