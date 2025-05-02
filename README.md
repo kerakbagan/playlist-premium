@@ -2,8 +2,7 @@
 
 
 =======MALAYSIA======
-
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="ASTRO SCREAM" tvg-logo="https://www.tvmalaysia.live/images/astro-scream-live-streaming-online.webp  " ,ASTRO SCREAM
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="ASTRO SCREAM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" ,ASTRO SCREAM
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022746.m3u8
 
