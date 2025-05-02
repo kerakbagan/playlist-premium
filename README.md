@@ -1,10 +1,6 @@
 # playlist-premium
 
-
 =======MALAYSIA======
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="ASTRO SCREAM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" ,ASTRO SCREAM
-#EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022746.m3u8
 
 #EXTINF:-1 tvg-id="tv1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
 #KODIPROP:inputstream=inputstream.adaptive
