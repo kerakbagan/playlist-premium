@@ -983,7 +983,10 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/73957.ts
 #EXTINF:-1 tvg-id="NOW SPORTS EPL FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.nowtv.now.com/media/s-logo/621_e.png", NOW SPORTS EPL FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/958142.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="NOW SPORTS 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/Now_Sports_2.png/revision/latest/scale-to-width-down/1200?cb=20231007144709&path-prefix=vi", NOW SPORTS FHD
+#EXTINF:-1 tvg-id="NOW SPORTS FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png", NOW SPORTS FHD
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/958134.ts|user-agent=IPTVPROPlayer
+
+#EXTINF:-1 tvg-id="NOW SPORTS 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/Now_Sports_2.png/revision/latest/scale-to-width-down/1200?cb=20231007144709&path-prefix=vi", NOW SPORTS 2 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/958135.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="TRUE PREMIER 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/True_Premier_Football_HD1.png/revision/latest/scale-to-width-down/985?cb=20240416003052&path-prefix=vi", TRUE PREMIER 1 FHD
