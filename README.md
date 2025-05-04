@@ -148,6 +148,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
+
 #======SINGAPORE======
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="CHANNEL 5 SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/640px-Mediacorp_Channel_5_2023.svg.png" ,CHANNEL 5 SG
@@ -156,17 +157,20 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33003
 
+
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="SURIA SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png" , SURIA SG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey, 
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/401530235
 
+
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="SINGAPORE" tvg-id="CHANNEL U SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/MU_2023.svg/revision/latest/scale-to-width-down/284?cb=20230207235427" , CHANNEL U SG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33002
+
 
 #EXTINF:-1 tvg-id="VASANTHAM SG" tvg-name="VASANTHAM SG" group-title="SINGAPORE" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/1024px-Mediacorp_Vasantham_2023.svg.pn", VASANTHAM SG
 #KODIPROP:inputstream=inputstream.adaptive
@@ -176,6 +180,7 @@ http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33002
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linears-playback.astro.com.my/vsg/41oQtf_2u8f3dR8wYqEJqDx6DiH099LMT_2sjEz9WopJ8=8xHQ/dash-wv/jitp-dashisowm/2105/default_ott.mpd
+
 =====Japan======
 #EXTINF:-1 group-logo="" group-title="JAPAN" tvg-id="" tvg-logo="https://welcon.kocca.kr/emp/cmm/getImage.do?atchFileId=FILE_774c7ef5-538f-4259-9bc2-970f911f4ef2", CGN TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
