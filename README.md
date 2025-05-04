@@ -1023,9 +1023,12 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/958148.ts|user-agent=IPTVPRO
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/952229.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="TRUE PREMIER 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi", TRUE PREMIER 2 FHD
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/952230.ts|user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022976.m3u8
 
 #EXTINF:-1 tvg-id="HUB PREMIER FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER FHD
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022975.m3u8
+
+#EXTINF:-1 tvg-id="HUB PREMIER 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 2 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022975.m3u8
 
 #EXTINF:-1 tvg-id="TRUE SPORTS 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.slazzer.com/downloads/6744b225-25c5-11f0-816a-1754fb72e2f3/1000562132_prev_ui.png", TRUE SPORTS 1 FHD
