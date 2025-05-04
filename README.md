@@ -171,15 +171,14 @@ http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/401530235
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33002
 
-
-#EXTINF:-1 tvg-id="VASANTHAM SG" tvg-name="VASANTHAM SG" group-title="SINGAPORE" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/1024px-Mediacorp_Vasantham_2023.svg.pn", VASANTHAM SG
+#EXTINF:-1 tvg-id="VASANTHAM SG" tvg-name="VASANTHAM SG" group-title="SINGAPORE" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/2560px-Mediacorp_Vasantham_2023.svg.png", VASANTHAM SG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears-playback.astro.com.my/2105/default_ott.mpd
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25848.m3u8
 
 =====Japan======
 #EXTINF:-1 group-logo="" group-title="JAPAN" tvg-id="" tvg-logo="https://welcon.kocca.kr/emp/cmm/getImage.do?atchFileId=FILE_774c7ef5-538f-4259-9bc2-970f911f4ef2", CGN TV
