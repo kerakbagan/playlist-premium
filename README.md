@@ -1022,7 +1022,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/952229.ts|user-agent=IPTVPRO
 #EXTINF:-1 tvg-id="TRUE PREMIER 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi", TRUE PREMIER 2 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/952230.m3u8
 
-#EXTINF:-1 tvg-id="TRUE PREMIER 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png  fix=vi", TRUE PREMIER 3 FHD
+#EXTINF:-1 tvg-id="TRUE PREMIER 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/True_Premier_Football_HD3.png/revision/latest/scale-to-width-down/1609?cb=20240416003104&path-prefix=vi", TRUE PREMIER 3 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/952231.m3u8
 
 #EXTINF:-1 tvg-id="HUB PREMIER FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER FHD
