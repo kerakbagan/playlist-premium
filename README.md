@@ -1061,6 +1061,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/617.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/603.ts
 
 ======Movie=====
+
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
