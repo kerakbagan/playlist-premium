@@ -1029,7 +1029,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022976.m3u8
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022975.m3u8
 
 #EXTINF:-1 tvg-id="HUB PREMIER 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 2 FHD
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022975.m3u8
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022976.m3u8
 
 #EXTINF:-1 tvg-id="HUB PREMIER 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 3 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022977.m3u8
