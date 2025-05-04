@@ -179,7 +179,7 @@ http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33002
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linears-playback.astro.com.my.shop/2105/default_ott.mpd
+https://linears-playback.astro.com.my/2105/default_ott.mpd
 
 =====Japan======
 #EXTINF:-1 group-logo="" group-title="JAPAN" tvg-id="" tvg-logo="https://welcon.kocca.kr/emp/cmm/getImage.do?atchFileId=FILE_774c7ef5-538f-4259-9bc2-970f911f4ef2", CGN TV
