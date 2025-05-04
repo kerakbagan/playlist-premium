@@ -1055,6 +1055,10 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/616.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/617.ts
 
+#EXTINF:-1 tvg-id="CANAL+ PREMIER LEAGUE FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png", CANAL+ PREMIER LEAGUE FHD
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+http://cool365.xyz:900/live/4160189881/DB4ACD54/603.ts
+
 ======Movie=====
 #EXTINF:-1 tvg-id="PLANKTON THE MOVIE" tvg-name="PLANKTON THE MOVIE" group-title="MOVIE"  tvg-logo="",PLANKTON THE MOVIE
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
