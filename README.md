@@ -1068,3 +1068,6 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/603.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
 https://cloud.hownetwork.xyz/xxx/4a72633195691748de4ca2a1b82a3e52/25/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6499742%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="▶ MOVIE", Pemburu Saka
+https://get.perfecttv.net/get_tonton.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6499742
