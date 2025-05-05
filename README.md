@@ -1068,3 +1068,9 @@ https://get.perfecttv.net/get_tonton.m3u8?username=vip_3klp0es8&password=wg3piwE
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6541846
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6541846
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6518925%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="MOVIE", Saka Perawan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6518925
