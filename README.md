@@ -1086,3 +1086,9 @@ https://be7713.rcr82.waw05.cdn255.com/hls2/02/02916/0lufmd5i5897_n/index-v1-a1.m
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/957115.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZhYTE5ZWQtNjkxZC00NzYyLWEzZWYtNThkNmY2MDNkMTRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE", SHERIFF
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/1008101.mp4
