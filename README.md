@@ -1080,3 +1080,9 @@ https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://be7713.rcr82.waw05.cdn255.com/hls2/02/02916/0lufmd5i5897_n/index-v1-a1.m3u8?t=titCUdAR-tf6oPf97OqCEJD0XQ5EO-PZ4I_wgTSQkvM&s=1746444858&e=10800&f=14581059&srv=27&asn=9534&sp=4000&p=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmM5YmQyNjctYzQxYy00OTY3LWIyOGQtMWQyMTY3ZmNhNmFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIE", Geng Sakau VS Hantu Tingtong
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/957115.mp4
