@@ -1074,3 +1074,9 @@ https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6518925
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2018/05/film-pontianak-vs-orang-minyak-2012.jpg.webp" group-title="MOVIE", Pontianak VS Orang Minyak
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://be7713.rcr82.waw05.cdn255.com/hls2/02/02916/0lufmd5i5897_n/index-v1-a1.m3u8?t=g4W38xB9xE72JJSEYeA8YHmsSqvg_bTUsJyug8A8kNg&s=1746444370&e=10800&f=14581059&srv=27&asn=9534&sp=4000&p=
