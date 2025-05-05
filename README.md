@@ -1062,3 +1062,9 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/617.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6499742%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="MOVIE", Pemburu Saka
 https://get.perfecttv.net/get_tonton.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6499742
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6542074%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="MOVIE", Pondok Abuya
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6541846
+https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6541846
