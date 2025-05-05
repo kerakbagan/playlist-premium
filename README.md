@@ -76,7 +76,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/912833.m3u8
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25855.ts
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25862.ts|user-agent=IPTVPROPlayer
