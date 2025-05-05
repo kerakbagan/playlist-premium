@@ -1091,4 +1091,4 @@ https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/957115.mp4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
-https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/1008101.mp4
+https://nflix.iptvbd.online/apis/v1/vid-movie.php?cid=g4YcKqfC0GH3t0BTgz77Hs5vrk3nLbyGiq6QrT2lklktJKtooqeGt6z-eJwFzLIqH4_vfXg2LWuBDk8fTHBbvf363pT4yFMpk1zzog_VjnNiS7HcZ47Qu4GbjOho4W3U_Xkb70AR8OuVFC5ARYWU6A&chunks=sCBRW0A5DmdXfphj0GlUa-MPRjkgSzFS2uiUJTgyZp34XpW8S7QR6EJLWSKaF-njCci8i3CfmrvmINwL3YPD1_qm-Ed3IBywyQzr5NFVt4eAC0spzWOFk5pd-iCrf7664GDYonX7jor2ieJjmIZhUFylaHpYQDr_TTYU8XRH4QHH-Icj7n-mz5FyCWORmD-p&vtoken=&format=.m3u8
