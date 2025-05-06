@@ -408,6 +408,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"} #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2 #EXTINF:-1 tvg-id="203.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-title="INDIAN",Vellithirai 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+
 ======movie======
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
