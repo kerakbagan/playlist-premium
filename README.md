@@ -964,7 +964,7 @@ http://xtvplayer.top:8080/sami4465/755488995/167572
 http://cool365.xyz:900/live/4160189881/DB4ACD54/9105.ts
 
 #EXTINF:-1 tvg-id="WWE NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE NETWORK FHD
-http://xtvplayer.top:8080/sami4465/755488995/388817
+https://2ejjcqijfmp.ubuntu-devs.top/AccessLog2/108085_SD/apache.m3u8
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="DAZN LA LIGA FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&s", DAZN LA LIGA FHD
