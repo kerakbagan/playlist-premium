@@ -389,7 +389,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"}
 #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 #EXTINF:-1 tvg-id="203.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-title="INDIAN",Vellithirai
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 #EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="INDIAN" group-logo="" tvg-logo="https://get.perfecttv.net/logo/suntv.png",195 Sun TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
