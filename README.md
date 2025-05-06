@@ -357,6 +357,10 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=colortamil
 
+#EXTINF:-1 tvg-id="Thangathirai" ch-number="241" tvg-name="Thangathirai HD" group-title="INDIAN"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ABO_Movies.png",Box Office Thangathirai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 ======movie======
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
