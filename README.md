@@ -337,9 +337,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=kbsworld
 
-
 #=======india=======
-
 
 #EXTINF:-1 tvg-id="Vinmeen" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png", Vinmeen 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -385,13 +383,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=e3e1be94e6c193fa21787ce8435db610:726304708c429f613ec2dc53619d6f76
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_ott.mpd
-
-
-#EXTINF:-1 tvg-id="Adithya" ch-number="214" group-title="INDIAN" group-logo="https://is.gd/dvboM8.png" tvg-logo="https://get.perfecttv.net/logo/aditya.png",198 Adithya
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-http://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"} #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2 #EXTINF:-1 tvg-id="203.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-title="INDIAN",Vellithirai 
