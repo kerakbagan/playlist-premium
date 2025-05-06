@@ -370,13 +370,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"} #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2 #EXTINF:-1 tvg-id="203.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-title="INDIAN",Vellithirai 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
-
-#EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="INDIAN" group-logo="" tvg-logo="https://get.perfecttv.net/logo/sunmusic.png",196 Sun Music
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"} #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2 #EXTINF:-1 tvg-id="203.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-title="INDIAN",Vellithirai 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
