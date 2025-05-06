@@ -337,6 +337,26 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=kbsworld
 
+#=======india=======
+
+#EXTINF:-1 tvg-id="Vinmeen" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png", Vinmeen 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
+
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="116.astro" tvg-logo="https://get.perfecttv.net/logo/colorhindi.png" ,189 Colors Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=colorhindi
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="222.astro" tvg-logo="https://get.perfecttv.net/logo/colortamil.png" ,190 Colors Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=colortamil
 
 ======movie======
 #EXTINF:-1 tvg-id="289.unifi" ch-number="289" tvg-name="CCM" group-title="MOVIES" tvg-logo="https://get.perfecttv.net/logo/ccm.png",135 CCM
