@@ -1,6 +1,7 @@
 # playlist-premium
 
 
+
 =======MALAYSIA======
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="ASTRO SCREAM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" ,ASTRO SCREAM
@@ -77,11 +78,6 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25855.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
-#EXTINF:-1 tvg-id="ASTRO RIA" tvg-logo="https://get.perfecttv.net/logo/ria.png" group-title="MALAYSIA",Astro Ria B
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25862.ts|user-agent=IPTVPROPlayer
