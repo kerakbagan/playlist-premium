@@ -191,6 +191,7 @@ http://zkbvzkj.megahdtv.xyz/1103581436/4099381829/33002
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25848.m3u8
 
 =====Japan======
+
 #EXTINF:-1 group-logo="" group-title="JAPAN" tvg-id="" tvg-logo="https://welcon.kocca.kr/emp/cmm/getImage.do?atchFileId=FILE_774c7ef5-538f-4259-9bc2-970f911f4ef2", CGN TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
