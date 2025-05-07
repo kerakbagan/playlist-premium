@@ -1004,10 +1004,17 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/615.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/616.ts
 
-
 #EXTINF:-1 tvg-id="BEIN SPORTS FRANCE 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein3fhd.png", BEIN SPORTS 3 FRANCE FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/617.ts
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jp53CMB.jpg" group-title="SPORTS FHD",GO3 Sport 1 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd 
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jp53UAb.jpg" 
+group-title="SPORTS FHD",GO3 Sport 2 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd 
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jp5FJiN.jpg" group-title="SPORTS FHD", GO3 Sport 3 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
 ======Movie=====
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6499742%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="MOVIE", Pemburu Saka
