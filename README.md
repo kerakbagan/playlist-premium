@@ -1067,4 +1067,4 @@ https://ktpremium.shop/movie/RY481/3619/1021552.mp4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
-https://vod3.cf.dmcdn.net/sec2(gQ3xEmlIy6WpVBZOQtmME_s7k0J-T2j6CQ2pHrqEHqmZdxnWQpZa6wrH22abHM61cikAkJLVjqlw0ci70HUpmAhWNq-UWzrJyOfBetGMbhZHmwmvavCKOjgof49fklaifJYQrbtvD1mz5x8n_r-zMR_hne9mRQFBxaij7ji7MYwF07WC53gqnLqNewdzaB9g)/video/242/623/559326242_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
+https://vod3.cf.dmcdn.net/sec2(XkEK5WMIj-Dwm9Lfc9eowGaa6kVDE9OxJmzqEUfm-8X96EG7fc0JafG6XfjpN7rMSRh_Bw4KiMxM79ek2eWnxxdlGauSOuDqwE6wXztC6c1-6XE1inhsK-EWGj6HIBRL9kHabRk25ZHjwcf1ZMjinC9p_SmOAvpa4mQZEUEFLc1ufSKdMBg4FLACJwXonu8T)/video/242/623/559326242_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
