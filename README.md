@@ -1061,4 +1061,4 @@ https://vod3.cf.dmcdn.net/sec2(UvPyHAUYn7ahErhK2vZzapl_n1OKYMlOMJyBDZN84jVQqNEdv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
-https://ktpremium.shop:2095/movie/FAQRUKHAIRI/01155094696/1021552.mp4
+https://ktpremium.shop/movie/RY481/3619/1021552.mp4
