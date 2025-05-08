@@ -1048,7 +1048,7 @@ https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/957115.mp4
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/1008101.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="First" group-title="▶ First" group-logo="" tvg-logo="https://get.perfecttv.net/first/harimaumerah.jpg" , Harimau Merah
+#EXTINF:-1 tvg-id="" tvg-name="First" group-title="MOVIE" group-logo="" tvg-logo="https://get.perfecttv.net/first/harimaumerah.jpg" , Harimau Merah
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
