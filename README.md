@@ -1050,6 +1050,7 @@ https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/957115.mp4
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/1008101.mp4
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.moviefone.com/image-assets/1111371/k5SoO75feHyoRR7C9b33o26wYF7.jpg?d=360x540&q=60" group-title="MOVIE", PONTIANAK 100KG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
