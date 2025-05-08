@@ -1056,3 +1056,9 @@ https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/1008101.mp4
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://vod3.cf.dmcdn.net/sec2(UvPyHAUYn7ahErhK2vZzapl_n1OKYMlOMJyBDZN84jVQqNEdvT5Netjh1k-45G8LxmDMney0hxUs6trIFPYw2C1VYm5wZRwZvVzHiGHWPmi54rrJwl6BgeBj77f23nHSfsAQnr5lpUwE7RdxQZpwDloUSj1260qUHcZbj9I8G9R_WBzGiGRqBG-H9sWT_n5H)/video/429/420/539024924_mp4_h264_aac_hq_6.m3u8#cell=cf3.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk3ZTE3ZWQtYjBkMC00NzRhLTgwZjMtM2YzMDU4YTg0YzRmXkEyXkFqcGc@._V1_.jpg" group-title="MOVIE", PONTIANAK 200KG
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://ktpremium.shop:2095/movie/FAQRUKHAIRI/01155094696/1021552.mp4
