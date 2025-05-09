@@ -1068,3 +1068,11 @@ https://ktpremium.shop/movie/RY481/3619/1021552.mp4
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://vod3.cf.dmcdn.net/sec2(XkEK5WMIj-Dwm9Lfc9eowGaa6kVDE9OxJmzqEUfm-8X96EG7fc0JafG6XfjpN7rMSRh_Bw4KiMxM79ek2eWnxxdlGauSOuDqwE6wXztC6c1-6XE1inhsK-EWGj6HIBRL9kHabRk25ZHjwcf1ZMjinC9p_SmOAvpa4mQZEUEFLc1ufSKdMBg4FLACJwXonu8T)/video/242/623/559326242_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
+
+======WWE REPLAY======
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/WWE_RAW_Logo_2025.svg/1200px-WWE_RAW_Logo_2025.svg.png" group-title="WWE REPLAY", WWE RAW 5/5/25
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://vod3.cf.dmcdn.net/sec2(2xJQdSDDqPcAIux-l6oLVKZxreWHvfvwhj8biNJkjRSojDhKQuqcqffDTVww9QK7eeMpjJkJFgsyzAdDVLM0Y5UmaGbHsZlheEZo1Ktqs3h8a3vB7CzqLz5CxCEE1gTtlUVZ1gMZzWNsupIEN9k5kH5aBMd3TrszO3NDxKu5iLqs_HaLohkFfdCRVoJ8kTkr)/video/698/271/576172896_mp4_h264_aac_hd_hfr_2.m3u8#cell=cf3.mp4
