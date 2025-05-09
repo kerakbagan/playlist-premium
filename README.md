@@ -1055,7 +1055,7 @@ https://ktpremium.shop/movie/FAQRUKHAIRI/01155094696/1008101.mp4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
-https://vod3.cf.dmcdn.net/sec2(UvPyHAUYn7ahErhK2vZzapl_n1OKYMlOMJyBDZN84jVQqNEdvT5Netjh1k-45G8LxmDMney0hxUs6trIFPYw2C1VYm5wZRwZvVzHiGHWPmi54rrJwl6BgeBj77f23nHSfsAQnr5lpUwE7RdxQZpwDloUSj1260qUHcZbj9I8G9R_WBzGiGRqBG-H9sWT_n5H)/video/429/420/539024924_mp4_h264_aac_hq_6.m3u8#cell=cf3.mp4
+https://vod3.cf.dmcdn.net/sec2(KlQPI-SdE3adwuqKwbIu1mHNdL9zBH-5YorMEYyOmapEfs7XIWrdzEoLh4LeNnJLv8WsU8nPyc2Xmyf65ohf2oOFXkK64pKaj30zNHLhKP4InjhiAuERj7Qvhb5fcmsJHZiNj0Wo0rPSjonrOrBv0DNt3Q5pWnOMo8HOfVdyTSK0NVml0VFQm6BydqrTH00P)/video/429/420/539024924_mp4_h264_aac_hq_6.m3u8#cell=cf3.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk3ZTE3ZWQtYjBkMC00NzRhLTgwZjMtM2YzMDU4YTg0YzRmXkEyXkFqcGc@._V1_.jpg" group-title="MOVIE", PONTIANAK 200KG
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1067,8 +1067,7 @@ https://ktpremium.shop/movie/RY481/3619/1021552.mp4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
-https://vod3.cf.dmcdn.net/sec2(XkEK5WMIj-Dwm9Lfc9eowGaa6kVDE9OxJmzqEUfm-8X96EG7fc0JafG6XfjpN7rMSRh_Bw4KiMxM79ek2eWnxxdlGauSOuDqwE6wXztC6c1-6XE1inhsK-EWGj6HIBRL9kHabRk25ZHjwcf1ZMjinC9p_SmOAvpa4mQZEUEFLc1ufSKdMBg4FLACJwXonu8T)/video/242/623/559326242_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
-
+https://vod3.cf.dmcdn.net/sec2(cCn11hyzlsIoD_feYdHpWmKNjYJOkH9kwSvkMceY8EHX-ccnKXsCCBXEbzhWpa4rhwNCmW_VTnwQRDWV9anZzwCuCOfbFriak-vFCTL4rht8nUUJHprIvxEbim-lhjlU4-y4f3iNjl0L9fYAOh_WqPXJaVZ4y4GJwAvALK9Z5fDQ2KiCjBWy2kgYhpeU72M3)/video/064/431/568134460_mp4_h264_aac_hd_2.m3u8#cell=cf3.mp4
 
 ======WWE REPLAY======
 
