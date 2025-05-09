@@ -1102,4 +1102,4 @@ https://vod3.cf.dmcdn.net/sec2(0J0nVNWcH3UrV5_55ZKX_kbEA37MDPSX45GwwlRArGnYeQrRL
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
-https://vod3.cf.dmcdn.net/sec2(Z114GZlwKnZoIOduVMBrR7cWC2sazBH3pOAZTDnbWHE7E5XGwjFQF6BiBxRo9zZbF9A9kkYODZkHHvljVTvlgPFjDpSSwsVDjjLNhBTqhJ2x2VQSJpvGOLwhY7FYzG0azOJYgIQb2kUsQURWlUleNbgWYF1pTd_nau40KZ7yxrOSZLTdh2xPL9lgn-onHKvM)/video/603/262/576262306_mp4_h264_aac_hd_2.m3u8#cell=cf3.mp4
+https://vod3.cf.dmcdn.net/sec2(ta5UGpf_Xu7-RK6QrbgpJrHC5tbz_URCR3B1L-XaGkmUNnHmaXKL803q9xO5z6dZZRhxTnAhsHeM1KST3t1vGA_liBkQYQKZr46R7tUyF5bBhe5AYamTJ4WpkogvQ3kiXlccdJGJt9M3cUjN4BkcEnTmfjx31dWYi8NmcW_0I8KXMkmucFrn88rfjpCrWHZA)/video/810/878/574878018_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
