@@ -32,9 +32,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ef878dbe08de56f7c95a877b884f70c:4e965306704af0ff926eed19f18c6c69
-#https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#https://linearjitp.perfecttv.net/tv3.mpd
-https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6420323|user-agent=Mozilla/5.0 (Linux; Android 10; Lenovo TB-8705X Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Safari/537.36 TONTON/6.0.35
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25810.m3u8
 
 #EXTINF:-1 tvg-id="ntv7" tvg-logo="https://get.perfecttv.net/logo/ntv7.png" group-logo="" group-title="MALAYSIA",104 TV7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
