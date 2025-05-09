@@ -1089,3 +1089,15 @@ https://vod3.cf.dmcdn.net/sec2(Mq-cBnivhxvmFBKc1fB1S6qaS20o0OUgLDJfcewK8ofO0DeMQ
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://vod3.cf.dmcdn.net/sec2(CvXlVEEmHjLt1A5wYlUQam1up2QhEuFLEyknWVK-r9XRcLTIBJ5km8ThIaBLqEFWfzlcCs8aPkt3uBH0o5Nr5uMh8eJZztgPJ_4uKh2IaYENyI9JrNh5kWpuabhqj0ZIXKfEUHxWhTJPRGxHcNohrnWZSi6uTW2h39Rt7UujIQ9Ef_CDSiNQMW2x4lQ7lHro)/video/603/262/576262306_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
+
+#EXTINF:-1 tvg-id="WWE REPLAY" tvg-name="" tvg-logo="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthe-official-wrestlemania-41-poster-this-is-significant-the-v0-4ottee9ydqwd1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D39ff8185c4bf6ffe4b53431166d95824eee1134d" group-title="WWE REPLAY", WRESTLEMANIA 41 NIGHT 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://vod3.cf.dmcdn.net/sec2(tMVzfhwmua9rolvgaj1B4Kg05JKU25ZA2MDHO2r8OkoAUoODG-P2y9n2DCvSGu4OSDGWDzSZ6K2zF9Su_wRoCmmRn1tkavhaYzcj0Od4LqKPf1s9wIiRqmCU7R9NJz1o1z9Bf7OLiz7BjIQG9afclVs0J9QEI5JrTI4_VaC_AIc)/video/410/878/574878014_mp4_h264_aac_1.m3u8#cell=cf3.mp4
+
+#EXTINF:-1 tvg-id="WWE REPLAY" tvg-name="" tvg-logo="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthe-official-wrestlemania-41-poster-this-is-significant-the-v0-4ottee9ydqwd1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D39ff8185c4bf6ffe4b53431166d95824eee1134d" group-title="WWE REPLAY", WRESTLEMANIA 41 NIGHT 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://vod3.cf.dmcdn.net/sec2(Z114GZlwKnZoIOduVMBrR7cWC2sazBH3pOAZTDnbWHE7E5XGwjFQF6BiBxRo9zZbF9A9kkYODZkHHvljVTvlgPFjDpSSwsVDjjLNhBTqhJ2x2VQSJpvGOLwhY7FYzG0azOJYgIQb2kUsQURWlUleNbgWYF1pTd_nau40KZ7yxrOSZLTdh2xPL9lgn-onHKvM)/video/603/262/576262306_mp4_h264_aac_hd_2.m3u8#cell=cf3.mp4
