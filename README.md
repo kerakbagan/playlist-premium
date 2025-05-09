@@ -1083,3 +1083,9 @@ https://vod3.cf.dmcdn.net/sec2(qsVWdeeaP3iMAXE7fuxRrJTa58UoH06Gh3CvTK9pWeGfwXUkI
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://vod3.cf.dmcdn.net/sec2(Mq-cBnivhxvmFBKc1fB1S6qaS20o0OUgLDJfcewK8ofO0DeMQn3V_3nEJP6y3gORGqSThKEf6pWGmzi53_zjiZkLT-IzrVbuh5XpWtgY3Pq-IFJVBWge2P0OsTfueOh8C64MhUfRGeYKU_YhIZuoXL20nVgEbTDhlNPkTlmvHhpXIP-nPaq47YFlFgSCnYZV)/video/809/749/575947908_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
+
+#EXTINF:-1 tvg-id="WWE REPLAY" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/WWE-NXT-Logo.png" group-title="WWE REPLAY", WWE NXT 6/5/25
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://vod3.cf.dmcdn.net/sec2(Hr2ToTRR3JVEqz4nR0BB5k5Mn5HpoZWMVTRVwERYMa4QI2L_hf2ZRwjG0D2hpc2r5Vvrn-f6AwIUrXenDx6MWqNRdUqy8JN3Amkurswo9zALYD9O4Tdo9hG1Cn7kTNHnDeYlPiIR74LsNP4jRpZFlSzy60YEfqW71NNDHWkJ9x6YB1sG_x3d6PFLl6jJ9eO6)/video/603/262/576262306_mp4_h264_aac_hd_2.m3u8#cell=cf3.mp4
