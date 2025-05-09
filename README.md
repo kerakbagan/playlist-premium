@@ -1077,3 +1077,9 @@ https://vod3.cf.dmcdn.net/sec2(XkEK5WMIj-Dwm9Lfc9eowGaa6kVDE9OxJmzqEUfm-8X96EG7f
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://vod3.cf.dmcdn.net/sec2(qsVWdeeaP3iMAXE7fuxRrJTa58UoH06Gh3CvTK9pWeGfwXUkIXlD8Kngcy2o8d5e4KUHuu3WsAhTDW7FIJaUTTuh7LYwgC1mhMlwJqDbPQozByCNM6GEn0UT8pY6k-28OfYVvhBNRQTvytAMads0Tpucm1ejN46yNvuggNzY0IMFsobnosttvYSku3GwX_kC)/video/698/271/576172896_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
+
+#EXTINF:-1 tvg-id="WWE REPLAY" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/1200px-WWE_SmackDown_%282024%29_Logo.svg.png" group-title="WWE REPLAY", WWE SMACKDOWN 2/5/25
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://vod3.cf.dmcdn.net/sec2(Mq-cBnivhxvmFBKc1fB1S6qaS20o0OUgLDJfcewK8ofO0DeMQn3V_3nEJP6y3gORGqSThKEf6pWGmzi53_zjiZkLT-IzrVbuh5XpWtgY3Pq-IFJVBWge2P0OsTfueOh8C64MhUfRGeYKU_YhIZuoXL20nVgEbTDhlNPkTlmvHhpXIP-nPaq47YFlFgSCnYZV)/video/809/749/575947908_mp4_h264_aac_hq_2.m3u8#cell=cf3.mp4
