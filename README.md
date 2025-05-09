@@ -1008,7 +1008,6 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/616.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/617.ts
 
-
 ======Movie=====
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6499742%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="MOVIE", Pemburu Saka
@@ -1057,6 +1056,7 @@ https://vod3.cf.dmcdn.net/sec2(KlQPI-SdE3adwuqKwbIu1mHNdL9zBH-5YorMEYyOmapEfs7XI
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://ktpremium.shop/movie/RY481/3619/1021552.mp4
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShkVRXa86a0-ZvTxm9VrdCv3IJRiePHATHCA&s" group-title="MOVIE", VINA SEBELUM 7 HARI
 #KODIPROP:inputstream=inputstream.adaptive
