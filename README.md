@@ -1094,7 +1094,7 @@ https://vod3.cf.dmcdn.net/sec2(CvXlVEEmHjLt1A5wYlUQam1up2QhEuFLEyknWVK-r9XRcLTIB
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
-https://vod3.cf.dmcdn.net/sec2(tMVzfhwmua9rolvgaj1B4Kg05JKU25ZA2MDHO2r8OkoAUoODG-P2y9n2DCvSGu4OSDGWDzSZ6K2zF9Su_wRoCmmRn1tkavhaYzcj0Od4LqKPf1s9wIiRqmCU7R9NJz1o1z9Bf7OLiz7BjIQG9afclVs0J9QEI5JrTI4_VaC_AIc)/video/410/878/574878014_mp4_h264_aac_1.m3u8#cell=cf3.mp4
+https://vod3.cf.dmcdn.net/sec2(0J0nVNWcH3UrV5_55ZKX_kbEA37MDPSX45GwwlRArGnYeQrRLp1SBB-r1NArrWpmFETahhVkhJyVk3frQP5owg-ShXjUVQ-XheCD5Bwk-IOlNgHKJCD9Y3hI3aa6QnYjpku2RmtOm_pxm5onGU8zFhdFae5I-zgMLHpzrLRFfDXM8h_B1YW7RsOz9b1kBmE3)/video/410/878/574878014_mp4_h264_aac_hq_1.m3u8#cell=cf3.mp4
 
 #EXTINF:-1 tvg-id="WWE REPLAY" tvg-name="" tvg-logo="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fthe-official-wrestlemania-41-poster-this-is-significant-the-v0-4ottee9ydqwd1.jpeg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D39ff8185c4bf6ffe4b53431166d95824eee1134d" group-title="WWE REPLAY", WRESTLEMANIA 41 NIGHT 2
 #KODIPROP:inputstream=inputstream.adaptive
