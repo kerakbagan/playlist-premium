@@ -828,7 +828,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010678.ts|user-agent=IPTVPR
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010679.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
-http://tvking.xyz:8080/live/erny7/kng243/28385.ts|user-agent=IPTVPROPlayer
+ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010680.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="SSC 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://i.pinimg.com/736x/77/6f/9f/776f9f887c933c83f5abe5cf595c2fde.jpg", SSC 1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
