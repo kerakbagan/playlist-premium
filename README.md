@@ -1007,6 +1007,9 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/932552.ts|user-agent=IPTVPRO
 #EXTINF:-1 tvg-id="TNT SPORTS 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230828", TNT SPORTS 2 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/932553.m3u8
 
+#EXTINF:-1 tvg-id="TNT SPORTS 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836 ", TNT SPORTS 3 FHD
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/932554.m3u8
+
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 FRANCE FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png", BEIN SPORTS 1 FRANCE FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/615.ts
