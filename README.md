@@ -868,7 +868,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1026531.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400551958.ts
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1026532.m3u8
 
 #EXTINF:-1 tvg-id="AD SPORTS 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png", AD SPORTS 1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
