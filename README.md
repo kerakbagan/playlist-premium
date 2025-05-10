@@ -844,7 +844,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1026528.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1026529.m3u8
 
 #EXTINF:-1 tvg-id="SSC 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5N-7xb2G-SuiSFd7mkEl3OeSWj5sGNa3Kb0jiSiiYdoUQ_znxKkH4NPw0YQCSKguqn12d3cH_tU4xdGfjRAn-muq8287ntvqzjl1MVXR8v7tIb35IBdnvMihX4savz1JA26xOB87nd9D7M8o19HspqX6D6D6vCSHTV4SIa2GCIJtU2v4cmQozR8S7t4c/s675/ssc3.webp", SSC 3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -852,7 +852,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1026528.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://cool365.xyz:900/live/4160189881/DB4ACD54/112549.ts
+https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1026530.m3u8
 
 #EXTINF:-1 tvg-id="SSC 4 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34618962_ico.png?ts=1745129904", SSC 4 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
