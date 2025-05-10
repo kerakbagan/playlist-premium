@@ -1072,3 +1072,8 @@ https://ktpremium.shop/movie/RY481/3619/1021552.mp4
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
 https://vod3.cf.dmcdn.net/sec2(cCn11hyzlsIoD_feYdHpWmKNjYJOkH9kwSvkMceY8EHX-ccnKXsCCBXEbzhWpa4rhwNCmW_VTnwQRDWV9anZzwCuCOfbFriak-vFCTL4rht8nUUJHprIvxEbim-lhjlU4-y4f3iNjl0L9fYAOh_WqPXJaVZ4y4GJwAvALK9Z5fDQ2KiCjBWy2kgYhpeU72M3)/video/064/431/568134460_mp4_h264_aac_hd_2.m3u8#cell=cf3.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga1OZxysR-Cg-kulqVvgnghr7aVUJPSyJ6Q&s" group-title="MOVIE", DAJAL - SATU MALAM DIPERDAJAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6518925
+https://vod3.cf.dmcdn.net/sec2(vfT5Zx7Ux1NczmTpCWkI5kYAOpJEa878iaMZfl5pW_INSWTNWW5q7Vvfxf1OUjrPdIZJ81uABQ1n-7cVVbscsix0ubWXX-XqZF6nBz-wAz5u3KQSKNhQzJ6kjMA9aSgfpUHk4tlebuJ4viioQr6YQGVIXtysTN3eufJ9oMnKBHvxBKhdqiLntlAlf2kCdVbd)/video/264/984/576489462_mp4_h264_aac_hd_1.m3u8#cell=cf3.mp4
