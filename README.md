@@ -784,7 +784,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796",801 Arena FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https:ktpremium.shop/live/RY883/2739/913178.ts
+https://ktpremium.shop/live/RY883/2739/913178.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486226_ico.png?ts=1743860879",802 Arena 2 FHD
 https://ktpremium.shop/live/RY883/2739/26306.ts|user-agent=IPTVPROPlayer
