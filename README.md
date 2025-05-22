@@ -780,11 +780,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
-
 =====SPORTS FHD=====
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796",801 Arena FHD
-https:ktpremium.shop/live/RY883/2739/913178.ts|user-agent=IPTVPROPlayer
+#EXTVLCOPT:http-user-agent=IPTVPROPlayer
+https:ktpremium.shop/live/RY883/2739/913178.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486226_ico.png?ts=1743860879",802 Arena 2 FHD
 https://ktpremium.shop/live/RY883/2739/26306.ts|user-agent=IPTVPROPlayer
