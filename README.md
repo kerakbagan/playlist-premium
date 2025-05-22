@@ -74,7 +74,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25855.ts
+https://ktpremium.shop/live/RY883/2739/25855.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -83,7 +83,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25855.ts
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25862.ts|user-agent=IPTVPROPlayer
+https://ktpremium.shop/live/RY883/2739/25862.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
