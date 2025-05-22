@@ -798,27 +798,27 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 tvg-id="AstroArenaBola" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33742859_ico.png?ts=1743924013",Astro Arena Bola
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/RY481/3619/912889.ts
+https://ktpremium.shop/live/RY883/2739/912889.ts
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492668_ico.png?ts=1743924067",Astro Arena Bola 2
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/RY481/3619/912890.ts
+https://ktpremium.shop/live/RY883/2739/912890.ts
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="AstroGrandstand" ch-number="810" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491670_ico.png?ts=1743913731" group-title="⚽ SPORTS FHD",Astro Grandstand
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/RY481/3619/26314.ts
+https://ktpremium.shop/live/RY883/2739/26314.ts
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204" group-title="⚽ SPORTS FHD",Astro Premier League
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/694537.ts
+https://ktpremium.shop/live/RY883/2739/26312.ts
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946" group-title="⚽ SPORTS FHD",Astro Premier League 2 
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/694538.m3u8
+https://ktpremium.shop/live/RY883/2739/26313.ts
 
 #EXTINF:-1 tvg-id="AstroFootBall" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876" group-title="⚽ SPORTS FHD",Astro FootBall
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
-https://ktpremium.shop/live/RY481/3619/694542.ts
+https://ktpremium.shop/live/RY883/2739/26315.ts
 
 #EXTINF:-1 tvg-id="ASTRO BADMINTON" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492782_ico.png?ts=1743925863", ASTRO BADMINTON FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010678.ts|user-agent=IPTVPROPlayer
