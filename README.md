@@ -837,6 +837,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5100/default_ott.mpd
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY883/2739/26314.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="⚽ SPORTS FHD",810 Astro Grandstand (B)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479229_ico.png?ts=1743780204" group-title="⚽ SPORTS FHD",Astro Premier League
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY883/2739/26312.ts
@@ -857,10 +863,15 @@ https://ktpremium.shop/live/RY883/2739/26313.ts
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" ch-number="812" group-title="⚽ SPORTS FHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 (B)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 
-
 #EXTINF:-1 tvg-id="AstroFootBall" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876" group-title="⚽ SPORTS FHD",Astro FootBall
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY883/2739/26315.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTHTTP:{"User-agent":"Linux; Android 13; Tivi4kay Build/TP2A.300325"}
+#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
+#EXTINF:-1 tvg-id="814.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="⚽ SPORTS FHD",Football (B)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO BADMINTON" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492782_ico.png?ts=1743925863", ASTRO BADMINTON FHD
 https://ktpremium.shop/live/RY883/2739/1010678.ts|user-agent=IPTVPROPlayer
