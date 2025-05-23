@@ -786,8 +786,24 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY883/2739/913178.ts|user-agent=IPTVPROPlayer
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena" group-title="⚽ SPORTS FHD" ch-number="801" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",801 Astro Arena (B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486226_ico.png?ts=1743860879",802 Arena 2 FHD
 https://ktpremium.shop/live/RY883/2739/26306.ts|user-agent=IPTVPROPlayer
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="⚽ SPORTS FHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png",802 Astro Arena 2 (B)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34479309_ico.png?ts=1743781488",806 EPL3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
