@@ -813,9 +813,21 @@ https://ktpremium.shop/live/RY883/2739/26314.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY883/2739/26312.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="AstroPremierLeague" ch-number="811" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png",811 Astro Premier League (B)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
+
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/33921206_ico.png?ts=1743779946" group-title="⚽ SPORTS FHD",Astro Premier League 2 
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 https://ktpremium.shop/live/RY883/2739/26313.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" ch-number="812" group-title="Sports" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2 (B)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroFootBall" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34491472_ico.png?ts=1743910876" group-title="⚽ SPORTS FHD",Astro FootBall
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
@@ -829,6 +841,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010679.ts|user-agent=IPTVPR
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
 https://ktpremium.shop/live/RY883/2739/1010680.ts|user-agent=IPTVPROPlayer
+
 
 #EXTINF:-1 tvg-id="SSC 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://i.pinimg.com/736x/77/6f/9f/776f9f887c933c83f5abe5cf595c2fde.jpg", SSC 1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
