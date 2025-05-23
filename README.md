@@ -878,6 +878,10 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010679.ts|user-agent=IPTVPR
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png",810 Sports Plus FHD
 https://ktpremium.shop/live/RY883/2739/1010680.ts|user-agent=IPTVPROPlayer
 
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="⚽ SPORTS FHD",Sports Plus (B)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 
 #EXTINF:-1 tvg-id="SSC 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://i.pinimg.com/736x/77/6f/9f/776f9f887c933c83f5abe5cf595c2fde.jpg", SSC 1 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
