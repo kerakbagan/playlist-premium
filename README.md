@@ -780,8 +780,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 
-
 =====SPORTS FHD=====
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34486217_ico.png?ts=1743860796",801 Arena FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
@@ -998,7 +998,6 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/33569.ts
 #EXTINF:-1 tvg-id="UFC FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://images.seeklogo.com/logo-png/27/2/ufc-logo-png_seeklogo-272942.png", UFC FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/83250.ts
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
