@@ -999,6 +999,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/33569.ts
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/83250.ts
 
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #EXTINF:-1 tvg-id="820.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORT1.png" group-title="⚽ SPORTS FHD",beIN Sports 1
@@ -1008,6 +1009,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #EXTINF:-1 tvg-id="821.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="⚽ SPORTS FHD",beIN Sports 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
