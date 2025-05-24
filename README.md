@@ -28,7 +28,7 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv2
 
 #EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="TV3" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 HD
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/25810.ts|user-agent=IPTVPROPlayer
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400200329.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="ntv7" tvg-logo="https://get.perfecttv.net/logo/ntv7.png" group-logo="" group-title="MALAYSIA",104 TV7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
