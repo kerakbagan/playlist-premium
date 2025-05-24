@@ -90,7 +90,7 @@ https://ktpremium.shop/live/RY883/2739/25855.ts
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima
-https://ktpremium.shop/live/RY883/2739/25862.ts|user-agent=IPTVPROPlayer
+http://vipgpno.top:8080/VIP01172172676386599/d5cdc8520bce/34542.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",113 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
