@@ -19,7 +19,7 @@ https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1022746.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Cookie%3D_ga_16T9K7D6EK%3A%20%22GS1.1.1687128145.1.0.1687128165.40.0.0%22
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400200329.ts
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8?id=1
 
 #EXTINF:-1 tvg-id="tv2" ch-number="102" tvg-name="TV2 HD" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv2.png", 102 TV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
