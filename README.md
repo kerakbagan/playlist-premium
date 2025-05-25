@@ -991,7 +991,7 @@ http://xtvplayer.top:8080/sami4465/755488995/167572
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://cool365.xyz:900/live/4160189881/DB4ACD54/9105.ts
+http://cool365.xyz:900/live/4160189881/DB4ACD54/9106.ts
 
 #EXTINF:-1 tvg-id="WWE NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE NETWORK FHD
 https://2ejjcqijfmp.shop.top/AccessLog2/108085_SD/apache.m3u8
