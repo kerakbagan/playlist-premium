@@ -887,7 +887,7 @@ https://ktpremium.shop/live/RY883/2739/26315.ts
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ASTRO BADMINTON" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34492782_ico.png?ts=1743925863", ASTRO BADMINTON FHD
-https://ktpremium.shop/live/RY883/2739/1010678.ts|user-agent=IPTVPROPlayer
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="ASTRO BADMINTON 2" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34738728_ico.png?ts=1746332765", ASTRO BADMINTON 2 FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010679.ts|user-agent=IPTVPROPlayer
